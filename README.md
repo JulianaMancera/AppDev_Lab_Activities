@@ -12,5 +12,3 @@ This repository has a collection of hands-on PHP lab activities from the Applica
 - OOP
 - Super Globals
 - Database Integration
-- PDO
-
